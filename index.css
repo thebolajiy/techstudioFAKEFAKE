@@ -1,0 +1,340 @@
+var{
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+    
+}
+.logo{
+    width: 35%;
+}
+.a11{
+    padding-left: 64%;
+    width: 100%;
+}
+/* .container{
+    width: auto;
+    height: 650px;
+    display: flex;
+    background-image: url(./image/WhatsApp\ Image\ 2022-10-25\ at\ 7.30.45\ AM.jpeg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid;
+    
+    
+    
+}
+.ace{
+    padding-left: 5%;
+    padding-top: 5%;
+
+}
+.box{
+    position: relative;
+    width: 37%;
+    background-color: white;
+    height: 70%;
+    margin-top: 5%;
+    margin-left: 13%;
+    
+}
+.box h2{
+    padding-left: 5%;
+    padding-top: 5%;
+    font-size: x-large;
+    font-weight: 400;
+    width: 90%;
+    margin-block-end: 8%;
+} */
+
+.okon{
+    display: flex;
+    height: 600px;
+    /* background-image: url(./image/WhatsApp\ Image\ 2022-10-25\ at\ 7.30.45\ AM.jpeg); */
+    background-color:#001327;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.okon h1{
+    width: 75%;
+    font-weight: 400;
+    font-family:serif;
+    
+    color: white;
+    padding-left: 9%;
+}
+.ope p{
+    font-size: 22px;
+    color: white;
+    font-weight: 100;
+    padding-left: 9%;
+    margin-block-end: 5%;
+    
+}
+.enrol h3{
+    font-size: 20px;
+    padding-left: 9%;
+    font-weight: 500;
+    color: white;
+    margin-block-end: 2%;
+}
+.enrol p{
+    font-size: medium;
+}
+
+.loki{
+    padding-left: 9%;
+}
+
+.ope{
+    
+    font-size: x-large;
+    width: 70%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.box{
+    position: relative;
+    width: 37%;
+    background-color: white;
+    height: 70%;
+    margin-top: 5%;
+    margin-right: 6%;
+    padding-bottom: 31%;
+    border-radius: 4px;
+    
+    
+}
+.box h2{
+    padding-left: 7%;
+    padding-top: 8%;
+    font-size: 20px;
+    font-weight: 400;
+    width: 90%;
+    margin-block-end: 8%;
+}
+
+.ok1{
+    margin-block-end: 64%;
+}
+.tun1{
+    width: 42.5%;
+}
+.tun2{
+    width: 37%;
+    margin-right: 9%;
+}
+
+.two{
+    display: flex;
+    justify-content: space-between;
+    
+    height: 3.5rem;
+    padding-left: 7%;
+    margin-block-end: 4%;
+   
+}
+.meta{
+    margin-left: 7%;
+    width: 85%;
+    height: 3.5rem;
+    margin-block-end: 4%;
+}
+.merin{
+    margin-left: 7%;
+    width: 85%;
+    height: 3.5rem;
+    margin-block-end: 6%;
+    
+}
+.ok1{
+    margin-left: 7%;
+    width: 85%;
+    height: 3.5rem;
+    background-color: rgb(64, 94, 18);
+    color: white;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 9px;
+    font-weight: 500;
+}
+    
+.testimonial{
+    padding-top: 3%;
+    /* margin-block-end: 5%; */
+    border: 1PX solid;
+    background-color:#f8fafc;
+}
+
+
+.two1{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* justify-content: center; */
+    margin-block-end: 2%;
+
+}
+.a1{
+    border-radius: 197px;
+    height: 99px;
+    width: 18%;
+    margin-left: 50%;
+    margin-block-end: 2%;
+    
+    
+}
+.a2{
+    border-radius: 197px;
+    height: 99px;
+    width: 18%;
+    margin-left: 30%;
+    margin-block-end: 2%;
+}
+.a3{
+    border-radius: 197px;
+    height: 79px;
+    width: 9%;
+    margin-left: 60%;
+    margin-block-end: 2%;
+}
+.b1{
+    padding-left: 10%;
+    
+}
+.b1 p{
+    text-align: center;
+    font-size: larger;
+    fon
+    
+    /* width: 80%; */
+    
+}
+
+.b2{
+    padding-left: 6%;
+    font-size: larger;
+
+}
+.b2 p{
+    text-align: center;
+    width: 80%;
+
+}
+.b3{
+    width: 80%;
+    /* text-align: center; */
+    margin-block-end: 4%;
+}
+
+.b3 p{
+    text-align: center;
+    padding-left: 30%;
+    font-size: larger;
+}
+span{
+    color:white;
+    font-size: large;
+}
+.map{
+    margin-block-end: 2%;
+}
+.calender{
+    margin-block-end: 2%;
+}
+
+.arometa{
+    display: flex;
+    /* margin-left: 5%; */
+    justify-content: space-evenly;
+    /* margin-block-end: 10%; */
+    border: 1px solid;
+    padding-top: 3%;
+}
+.arometa p{
+    text-align: center;
+    font-size: medium;
+    
+}
+.arometa h3{
+    
+    text-align: center;
+    font-size: large;
+    /* font-weight: 400; */
+}
+.arometa img{
+    margin-block-end: 6%;
+    margin-left: 26%;
+}
+.p3{
+    margin-block-end: 4%;
+}
+.ww{
+    padding-top: 4%;
+    border: 1px solid;
+}
+.ff{
+    text-align: center;
+    margin-block-end: 5%;
+}
+s::after{
+    content: '';
+    width: 25%;
+    height: 1%;
+    background-color: #007bff;
+    display: block;
+/*     
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    position: relative */
+}
+.mm{
+    display: flex;
+    margin-left: 9%;
+    
+}
+.gg{
+    height: 64%;
+    width: 80%;
+    padding-left: 9%;
+    
+}
+.oo{
+    font-size: 92%;
+    width: 55%;
+    /* height: 50%; */
+    
+    
+}
+/* .ll{
+    border: 1px solid ;
+    border-radius: 7%;
+    text-align: center;
+    font-weight: 700;
+    font-size: large;
+    width: 30%;
+    height:8% ;
+    background-color:#007bff;
+    color: white;
+} */
+
+.button {
+    background-color: rgb(64, 94, 18);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+      
+}
+.button:hover {
+    opacity: 1
+}
